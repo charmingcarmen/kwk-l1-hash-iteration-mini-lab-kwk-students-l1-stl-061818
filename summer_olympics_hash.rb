@@ -1,8 +1,6 @@
 
 def create_olympics_hash
-   ={
-  "place"["sydney","athens","beijing","london",]
-  "year"["2000",""]
+"sydney"=>"2000"
    }
 end
 
