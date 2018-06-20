@@ -6,7 +6,7 @@ end
 def add_a_vaule_pair
 end
 
-def 
+def itertate_through_hash
   
 end
 
